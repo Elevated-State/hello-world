@@ -1,1 +1,2 @@
 "Hello fellow humans"
+Finally getting to understand the workflow of Git. I'm interested in the sec ops side but the software side is a must know for many companies. After just having our first child, I need a career. A real one.
